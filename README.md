@@ -1,6 +1,8 @@
 # land-governance-map
 Global Donor Land Governance Map
 
+Database and map of all donor-funded land and resource governance programs, based on cartodb.js.
+
 Instructions
 ------------
 You should edit the config.php and cartodb.php files and provide your database information and CartoDB key.
